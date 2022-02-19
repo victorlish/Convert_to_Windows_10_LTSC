@@ -12,3 +12,6 @@ The script intended to help the people convert Windows 10 Enterprise LTSC Evalua
 4. Run the `loader.bat` and accept for giving Administrator rights. After that, the PC will be restarted immediately.
 5. Open `cmd` or `powershell` and run `systeminfo | findstr LTSC` to see if the OS name is changed.
 6. Activate the system by using the information, including but not limit to the KMS server IP and product key provided by your organization.
+
+## Notes
+1. Only tested in Windows Windows 10 Enterprise LTSC Evaluation 21H2.
