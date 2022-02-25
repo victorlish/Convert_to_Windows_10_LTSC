@@ -4,7 +4,7 @@ The script intended to help the people convert Windows 10 Enterprise LTSC Evalua
 ## Disclaimer
 1. The product key inside the script is came from [Microsoft](https://docs.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys).
 2. The script *is not* a one-click activation or a crack tool that intended to create or activate illegal copies.
-3. A part of the repo is collected from the Internet.
+3. A part of resources in the repo are collected from the Internet.
 4. The script comes with *no warranty*, use it at your own risk.
 
 ## Instruction
