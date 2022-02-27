@@ -1,11 +1,12 @@
-# Win10 Enterprise LTSC Remove Evaluation
+# Windows 10 Enterprise LTSC Remove Evaluation
 The script intended to help the people convert Windows 10 Enterprise LTSC Evaluation to Windows 10 Enterprise LTSC who has a genuine Windows 10 Enterprise LTSC product key.
 
 ## Disclaimer
-1. The product key inside the script is came from [Microsoft](https://docs.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys).
-2. The script *is not* a one-click activation or a crack tool that intended to create or activate illegal copies.
+1. The product key within the script is came from [Microsoft](https://docs.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys).
 3. A part of resources in the repo are collected from the Internet.
-4. The script comes with *no warranty*, use it at your own risk.
+2. The script *is not* a one-click activation or a crack tool that intended to create or activate illegal copies.
+4. The script *will clear* all the product key registration information on Windows, including the original product key and KMS server configuration.
+5. The script comes with *no warranty*, use it at your own risk.
 
 ## Instruction
 1. Make sure you are using Windows 10 Enterprise LTSC Evaluation by open `cmd` or `powershell` and run `systeminfo | findstr Windows`.
