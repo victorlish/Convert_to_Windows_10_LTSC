@@ -20,3 +20,4 @@ It is for whom have a genuine Windows 10 Enterprise LTSC product key.
 
 ## Notes
 1. Only tested in Windows 10 Enterprise LTSC Evaluation 21H2 (10.0.19044 Build 19044).
+2. Recently (2022070x) tested in Windows 11 Pro. Although the system reconigse the SKUs, the system won't be activated without a key and a KMS server.
