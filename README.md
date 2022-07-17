@@ -20,4 +20,7 @@ It is for whom have a genuine Windows 10 Enterprise LTSC product key.
 
 ## Notes
 1. Only tested in Windows 10 Enterprise LTSC Evaluation 21H2 (10.0.19044 Build 19044).
-2. Recently (2022070x) tested in Windows 11 Pro. Although the system recognise the SKUs and determined as Windows 11 Enterprise LTSC, the system won't be activated without a KMS key.
+
+~~Updated (2022070x): Tested in Windows 11 Pro. Although the system recognise the SKUs and determined as Windows 11 Enterprise LTSC, the system won't be activated without a KMS key.~~
+
+Updated (2022071x): Tested in Windows 11 Pro (again). Although there is no Windows 11 Enterprise LTSC KMS key availabled on [the official site](https://docs.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys), the system seems to 'recognise' the KMS key (the Windows 10's one). Not sure how it works. Here are the [before](./Win11_Ltsc/1_before.png) and the [after](./Win11_Ltsc/2_after.png).
